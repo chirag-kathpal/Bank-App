@@ -8,6 +8,7 @@ public class Main {
 //        Create user
         String name=sc.next();
         String password=sc.next();
+        System.out.println("Enter amount you want to Deposit");
         double balance=sc.nextDouble();
 
 
