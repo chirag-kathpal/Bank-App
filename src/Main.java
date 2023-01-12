@@ -29,6 +29,7 @@ public class Main {
 //        rate of interest
         System.out.println("Interest after 10 years will be:");
         System.out.print(user.calculateInterest(10));
+        System.out.println("Just Checking");
     }
 
 }
